@@ -1,7 +1,8 @@
 # DiscreteEventLogisticsSystemsUML
 
-This project has been moved to https://github.com/usnistgov/DiscreteEventLogisticsSystems
-Contact me to gain access to the new project
+This project has been moved to / is being continued @ https://github.com/usnistgov/DiscreteEventLogisticsSystems
+
+To gain access to the new project, contact me: timothy[dot]sprock[at]nist[dot]gov 
 
 ## Overview
 A discrete event logistics system (or DELS) can be described as:
